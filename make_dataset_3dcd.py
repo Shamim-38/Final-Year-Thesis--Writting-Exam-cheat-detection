@@ -1,5 +1,5 @@
 """
-Author: Md Mahedi Hasan
+Author: Md Shamim
 Description: Preprocess pose sequence dataset to feed rnn model
 Steps to do
         1. find out and sort partial body
