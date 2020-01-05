@@ -1,6 +1,6 @@
 """
-Author: Md Mahedi Hasan
-Description: Preprocess pose keypoints to find more gait features
+Author: Shamim
+Description: Preprocess pose keypoints to find more cheat features
 Steps to do
         1. find each body joint coordinates
         2. find limb length
